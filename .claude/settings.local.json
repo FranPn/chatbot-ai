@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 write_readme.py)",
+      "Bash(python3 *)",
+      "Bash(/home/franpn/progetti/chatbot-ai/.venv/bin/pip install *)",
+      "Bash(ollama list *)",
+      "Bash(.venv/bin/python *)"
+    ]
+  }
+}
